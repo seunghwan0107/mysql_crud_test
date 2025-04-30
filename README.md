@@ -12,3 +12,4 @@ SQLITE 선택후 DatabasePath에 변환시킨 classicmodels_db.sqlite를 path에
 
 * streamlit 링크 : <https://mysqlcrudtest-ixhufpnvicuwp8rnff8tbx.streamlit.app/>
 
+![Image](https://github.com/user-attachments/assets/707c234e-df82-4608-9057-b69a3c35edb3)
