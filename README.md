@@ -1,17 +1,14 @@
 # mysql_crud_test
 
-# 첫번째 미션
--- sqlite3 생성 후, classicmodels 쿼리 추가 하는 방법
+## mysql 데이터를 sqlite3으로 변환시기
+pip install mysql-to-sqlite3 설치
+mysql2sqlite -f classicmodels_db.sqlite -d classicmodels -u root -p 실행 시켜 classicmodels_db.sqlite 생성
 
-# streamlit 대시보드 개발
--- sqlite3와 연결
+## 연결하기
+vscode에서 MySQL database manegement 다운
+SQLITE 선택후 DatabasePath에 변환시킨 classicmodels_db.sqlite를 path에 입력
 
-# 대시보드 디자인 시작
--- 테스트 완료 후
+## app.py 안에 코드 작성
 
-# 배포 deploy, streamlit
+* streamlit 링크 : <https://mysqlcrudtest-ixhufpnvicuwp8rnff8tbx.streamlit.app/>
 
-
-# README.md 페이지 구성
-- 7교시 8교시, README.md 페이지 구성
-- 마크다운 문법
