@@ -8,7 +8,7 @@ mysql2sqlite -f classicmodels_db.sqlite -d classicmodels -u root -p 실행 시�
 vscode에서 MySQL database manegement 다운
 SQLITE 선택후 DatabasePath에 변환시킨 classicmodels_db.sqlite를 path에 입력
 
-3. app.py 안에 코드 작성
+3.app.py 안에 코드 작성
    app.py 참조
 
 * streamlit 링크 : <https://mysqlcrudtest-ixhufpnvicuwp8rnff8tbx.streamlit.app/>
